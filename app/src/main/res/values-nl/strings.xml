@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wisselkoers berekenaar</string>
+    <string name="action_settings">Instellingen</string>
+
+    <string name="AUD">Australische Dollar</string>
+    <string name="GBP">Britse Pond</string>
+    <string name="JPY">Japanse Yen</string>
+    <string name="USD">Amerikaanse Dollar</string>
+    <string name="EUR">Euro</string>
+    <string name="msg">Gegevens worden geladen....</string>
+</resources>
